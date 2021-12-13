@@ -395,9 +395,7 @@ main#home h1 {
 @media screen and (max-width: 500px) {
   main#home h1 {
     margin-top: 10vh;
-  }
-   .ig-heading {
-    font-size: 3rem;
+    font-size:3rem;
   }
 
   .projects {
@@ -405,7 +403,7 @@ main#home h1 {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
+
 /* contact */
 .feedback-input {
   color: white;
